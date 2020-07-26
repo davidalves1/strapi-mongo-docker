@@ -11,21 +11,21 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "strapi": "3.1.1",
-    "strapi-admin": "3.1.1",
-    "strapi-utils": "3.1.1",
-    "strapi-plugin-content-type-builder": "3.1.1",
-    "strapi-plugin-content-manager": "3.1.1",
-    "strapi-plugin-users-permissions": "3.1.1",
-    "strapi-plugin-email": "3.1.1",
-    "strapi-plugin-upload": "3.1.1",
-    "strapi-connector-mongoose": "3.1.1"
+    "strapi": "3.1.0",
+    "strapi-admin": "3.1.0",
+    "strapi-utils": "3.1.0",
+    "strapi-plugin-content-type-builder": "3.1.0",
+    "strapi-plugin-content-manager": "3.1.0",
+    "strapi-plugin-users-permissions": "3.1.0",
+    "strapi-plugin-email": "3.1.0",
+    "strapi-plugin-upload": "3.1.0",
+    "strapi-connector-mongoose": "3.1.0"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "davidalves1 <alves.david@outlook.com>"
   },
   "strapi": {
-    "uuid": "f16fbbd9-ccf4-467e-bc2b-2815646c4bab"
+    "uuid": "b20036bc-da27-4cde-a764-320b532e1610"
   },
   "engines": {
     "node": ">=10.0.0",

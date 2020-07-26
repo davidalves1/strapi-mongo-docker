@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Create your awesome api with Strapi

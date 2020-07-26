@@ -2,8 +2,7 @@ version: '3'
 
 services:
   app:
-    container_name: strapi
-    image: strapi/strapi
+    build: .
     restart: "no"
     environment:
       - DATABASE_CLIENT=mongo
@@ -21,7 +20,6 @@ services:
       - db
 
   db:
-    container_name: mongo
     image: mongo
     restart: "no"
     environment:
